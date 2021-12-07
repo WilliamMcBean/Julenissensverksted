@@ -1,3 +1,3 @@
 function myFunction() {
-  document.body.style.backgroundColor = "red";
+  document.body.style.backgroundColor = "#DDA0DD";
 }
